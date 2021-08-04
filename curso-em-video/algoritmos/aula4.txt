@@ -1,0 +1,41 @@
+- Curso de Algoritmos (Curso em Vídeo)
+
+(Exercícios e exemplos feitos em Visualg)
+
+Operadores Aritméticos
+
++ adição
+- subtração
+* multiplicação
+/ divisão
+\ divisão inteira
+^ exponenciação
+% módulo
+
+Ordem de Precedência
+
+( ) parênteses
+^ exponenciação
+* / multiplicação e divisão
++ - adição e subtração
+
+Operadores Relacionais
+
+> maior que
+< menor que
+>= maior ou igual a
+<= menor ou igual a
+= igual a
+<> diferente de
+
+Operadores Lógicos
+
+E
+OU
+NÃO
+
+Ordem de Precedência Geral
+
+Aritméticos: (), ^, */, +-
+Relacionais: todos da esquerda para a direita
+Lógico: E, OU, NÃO
