@@ -1,0 +1,69 @@
+Exercícios feitos em Visualg
+
+- Qual a idade de Creuza?
+
+algoritmo "Quantos anos Creuza tem?"
+var
+   ano_atual, ano_nasc, idade: Inteiro
+inicio
+   Escreva("Em que ano nós estamos? ")
+   Leia(ano_atual)
+   Escreva("Em que ano eu nasci? ")
+   Leia(ano_nasc)
+   idade <- ano_atual - ano_nasc
+   Escreva("Minha idade será ", idade)
+fimalgoritmo
+
+- Quantos doláres Creuza pode ter?
+
+algoritmo "Quantos doláres Creuza pode ter?"
+var
+   reais, dolares: Real
+inicio
+   Escreva("Quantos Reais eu tenho? R$")
+   Leia(reais)
+   dolares <- reais/5.03
+   Escreva("Posso ter US$", dolares)
+fimalgoritmo
+
+- Problema na Temperatura
+
+algoritmo "Problema de Temperatura (Celsius para Fahrenheit)"
+var
+   F, C: Real
+inicio
+   Escreva("Qual é a temperatura aqui? ")
+   Leia(F)
+   C <- (F - 32) / 1.8
+   Escreva("No Brasil estaria ", C:4:1)
+fimalgoritmo
+
+- Problema de Imposto
+
+algoritmo "Problema com impostos"
+var
+   preco, imposto: Real
+inicio
+   Escreva("Qual o preço do produto? US$")
+   Leia(preco)
+   imposto <- (preco * 60) / 100
+   Escreva("O imposto será de US$ ", imposto:5:2)
+fimalgoritmo
+
+- Empréstimo de Creuza (pratico)
+
+algoritmo "Valor do Empréstimo"
+var
+   emprestimo, parcela, juros, total: Real
+inicio
+   Escreva("Qual o valor do empréstimo? R$ ")
+   Leia(emprestimo)
+   juros <- (emprestimo * 20) / 100
+   Escreval("O juros será de R$ ", juros)
+   total <- (emprestimo + juros)
+   Escreval("O valor total do empréstimo é de R$ ", total)
+   Escreva("Qual o número de parcelas? ")
+   Leia(parcela)
+   parcela <- total/parcela
+   Escreva("As parcelas serão de R$ ", parcela)
+fimalgoritmo

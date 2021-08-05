@@ -1,0 +1,15 @@
+- A linguagem Java é totalmente sensitive 
+
+Regras de CamelCase
+
+Classe/Interface: quando a primeira letra é maiuscula;
+Exemplo: AlunosCursoEmVideo
+
+Atributo/Variável/Método: quando a primeira letra é minuscula;
+Exemplo: nomeAluno, mediaPrimeiroBimestre, lancarNotaAluno
+
+Pacote: quando todas as letras são minusculas;
+Exemplo: alunoscursoemvideo
+
+Constante: quando todas as letras são maiusculas
+Exemplo: VALOR_DE_PI
