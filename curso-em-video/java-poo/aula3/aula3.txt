@@ -1,0 +1,27 @@
+Aula 3
+
+UML = Linguagem de Modelagem Unificada
+
+Diagrama de Classes
+
+1° Classe
+- Classe tem a primeira letra maiuscula = Caneta
+
+2° Atributos
+- Atributos tem letras minusculas = modelo, cor, ponta, carga, tampada
+
+3° Metódos
+- Metódos tem () no final = escrever(), rabiscar(), pintar(), tampar(), destampar()
+
+Modificadores de Visibilidade
+
+Indicam o nível de acesso aos componentes internos de uma classe.
+Eles podem ser utilizados por 3 simbolos, são eles:
++ público = qualquer pessoa pode usar = telefone público
+* a calsse atual e todas as outras classes.
+
+- privado = somente eu posso usar = telefone celular
+* somente a classe atual
+
+# protegido = somente quem é da minha família = telefone de casa
+* a classe atual e todas as suas sub-classes
