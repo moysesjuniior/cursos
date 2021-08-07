@@ -13,7 +13,7 @@ inicio
    Escreva("Segunda Nota: ")
    Leia(N2)
    M <- (N1 + N2) / 2
-   Escreval("A média dp aluno foi ", M:4:2)
+   Escreval("A média do aluno foi ", M:4:2)
    Se(M >= 7) entao
       Escreval("Aluno Aprovado")
    senao

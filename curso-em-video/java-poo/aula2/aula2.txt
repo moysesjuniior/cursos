@@ -1,0 +1,12 @@
+Aula 2
+
+Exemplo:
+
+Caneta
+- Coisas que eu tenho? = Atributos
+Modelo, cor, ponta, carga, tampada
+- Coisas que eu faço? = Metódo
+Escrever, rabiscar, pintar, tampar, destampar
+- Como estou agora? = Estado
+Escrevendo, aberta, 50% de carga
+
