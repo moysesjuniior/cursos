@@ -1,0 +1,7 @@
+Pilares da POO
+
+- Encapsulamento
+Ocultar partes independentes da implementação, permitindo construir partes invisíveis ao mundo exterior.
+Nenhuma interface possui atributos, apenas métodos
+- Herança
+- Polimorfismo

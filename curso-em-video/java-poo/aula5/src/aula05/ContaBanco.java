@@ -19,7 +19,7 @@ public class ContaBanco {
     public void abrirConta(String t) {
         this.setTipo(t);
         this.setStatus(true);
-        if (t =="CC") {
+        if (t == "CC") {
             this.setSaldo(50);
         } else if (t == "CP") {
             this.setSaldo(150);
